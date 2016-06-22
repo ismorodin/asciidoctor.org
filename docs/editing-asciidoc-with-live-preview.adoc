@@ -1,4 +1,6 @@
 = Editing AsciiDoc with Live Preview
+
+df
 Dan Allen; Guillaume Grossetie
 :uri-chrome-extension: https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
 :uri-firefox-addon: https://addons.mozilla.org/fr/firefox/addon/asciidoctorjs-live-preview
@@ -36,7 +38,7 @@ If you want the latest and greatest version you can use the direct download link
 
 ==== Firefox
 
-. Download {uri-firefox-addon-dd}[asciidoctor-firefox-addon.xpi]
+. Download {uri-ffirefox-addon-dd}[asciidoctor-firefox-addon.xpi]
 . Open the file with Firefox to install
 
 ==== Opera
